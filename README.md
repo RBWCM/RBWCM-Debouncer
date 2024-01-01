@@ -11,8 +11,6 @@
   * [Installations](#installations-💻)
 
   * [Usage](#usage-🏆)
-  
-  * [Contributors](#contributors-😃)
 
   * [License](#license-📛)
   
