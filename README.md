@@ -16,7 +16,9 @@
   
   ## Installations  💻
 
-  To install the program, click on the releases on the right side of the page, and then install the .zip file for x64 or x86, depending on your system. Extract the folder and run the 'RBWCM-Debouncer.exe' program. If you delete the .dll files in the folder, the debouncer will no longer work.
+  To install the program, click on the releases on the right side of the page, and then install the .zip file for x64 or x86, depending on your system. Extract the folder and run the 'RBWCM-Debouncer.exe' program. If you delete the .dll files in the folder, the     
+  debouncer will no longer work.
+  **Changing the debounce time is strictly prohibited.**
 
   ## Usage 🏆
 
